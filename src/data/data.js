@@ -3,9 +3,9 @@ import Blockchain from '..//assets/projects/Blockchain.jpg'
 export const data = [
     {
         id: 1,
-        name: "Portfolio Website",
+        name: "Crypto Scraper",
         image: Blockchain,
-        live: "https://github.com/harshitdabra/Portfolio/tree/master", 
+        live: "https://crypto-grid-scrapper.onrender.com/", 
     },
     {
         id: 2,
